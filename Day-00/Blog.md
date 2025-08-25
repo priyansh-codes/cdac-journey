@@ -1,58 +1,19 @@
-# Orientation Day (Day 0) - Student Diary
+# Orientation Day – 21st August 2025
 
-**Date:** 21st August 2025  
-**Course:** PGDAC  
-**Batch:** A
+The first official day at **CDAC, NOIDA** started with the **orientation program**. Unlike registration, today was all about **getting familiar with the institute, the faculty, and the course structure**.
 
-Today was my first day of actual classes at CDAC. Here's how the day went:
+When I entered the hall, I noticed the entire batch from all courses was present. There was a mix of students from **PGDAC, PGDAI, PGDLSI**, and other programs, which made the atmosphere quite lively.  
 
----
+The orientation session began with an **overview of CDAC**, where the coordinators explained the programs, infrastructure, and learning resources available. They also highlighted the **placement statistics**, which were impressive — around **87% of students from the last batch were placed**.  
 
-### Morning Arrival
-I reached CDAC around 8:55 AM to get a front-row seat. Straight away, I went to the classroom hall.
+Next, we had some **company representatives** talk about the recruitment process and what they expect from a candidate:
+- **HCL Tech** – insights shared 
+- **Motherson** – insights shared 
+- **Amdocs** – session by Ankita Sharma, HR Manager  
+- **Altera** – Mukesh Tatya shared the expectations  
 
-**First Lecture – Web Technologies**  
-**Faculty:** Anoop Mahajan
+It was really helpful to understand what skills and qualities companies are looking for, and it motivated me to start the course on a serious note.
 
-- Faculty took introductions from everyone.  
-- Overview of PGDAC course, modules, and batch division:
-  - **Batch A**: I am part of this batch
-  - **Modules:** C++, Core Java, Data Structures, Web Technologies, Database, Microsoft .NET, ASDM & OS, Web-based Java, AptD
-- Explained internal exams and marks distribution:
-  - Internal MCQs – 20 marks, passing 8 marks  
-  - Lab – 40 marks, passing 14 marks  
-  - External – 40 marks, passing 14 marks
-- Today’s topic: **HTML basics**  
-  - Covered: tables, images, hyperlinks, lists (ordered, unordered, definition, nested)  
-  - Brief intro to HTTP methods: GET, POST, PUT, READ
+Overall, the day was **informative and motivating**. It helped me get a sense of the environment, the expectations, and the resources available. I left the session feeling more confident and excited to start the actual classes from **Monday, 25th August 2025**.  
 
-**Theory Lecture Timing:** [Insert timing]
-
----
-
-### Lab Session
-- Practiced HTML topics covered in theory class  
-- Lab Timing: [Insert timing]
-
----
-
-### Afternoon Session
-- Continued HTML topic:
-  - row span, column span, images, and formatting details  
-- Given some practice programs to prepare for next lab  
-- Afternoon Theory Timing: [Insert timing]
-
----
-
-### Assignments
-[Assignments to be added]
-
----
-
-### Notes
-- Orientation was very insightful, learned about CDAC, placement stats, and expectations from companies like HCL, Motherson, Amdocs, and Altera.  
-- The day gave a clear picture of course structure, modules, and how each session will flow.  
-
----
-
-Overall, it was a productive start, and I’m excited for tomorrow’s sessions!
+Orientation Day was long but meaningful — a perfect start to the **CDAC journey**!
