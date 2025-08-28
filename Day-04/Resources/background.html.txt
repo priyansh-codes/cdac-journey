@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Properties Example</title>
+    <link rel="stylesheet" href="background.css">
+</head>
+<body>
+
+    <div class="background-color">
+        <h2>Background Color</h2>
+        <p>This div has a semi-transparent black background color.</p>
+    </div>
+
+    <div class="background-image">
+        <h2>Background Image</h2>
+        <p>This div has a background image from Unsplash.</p>
+    </div>
+
+    <div class="background-repeat">
+        <h2>Background Repeat</h2>
+        <p>This div has a repeated background image.</p>
+    </div>
+
+    <div class="background-attachment">
+        <h2>Background Attachment</h2>
+        <p>This div has a background that stays fixed when scrolling.</p>
+    </div>
+
+    <div class="background-position">
+        <h2>Background Position</h2>
+        <p>This div has a background image centered in the div.</p>
+    </div>
+
+</body>
+</html>
